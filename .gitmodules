@@ -1,0 +1,9 @@
+[submodule "ranking-front"]
+	path = ranking-front
+	url = git@github.com:I999m/ranking-front.git
+[submodule "ranking-worker"]
+	path = ranking-worker
+	url = git@github.com:I999m/ranking-worker.git
+[submodule "ranking-api"]
+	path = ranking-api
+	url = git@github.com:I999m/ranking-api.git
